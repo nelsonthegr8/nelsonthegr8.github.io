@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+<defs><linearGradient id="gold" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f6dc86"/><stop offset=".55" stop-color="#d4af37"/><stop offset="1" stop-color="#8a6a1c"/></linearGradient><radialGradient id="bg" cx="0.5" cy="0.45" r="0.75"><stop offset="0" stop-color="#2b1a40" stop-opacity="1"/><stop offset="1" stop-color="#0B0A08" stop-opacity="1"/></radialGradient>
+<linearGradient id="holo" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f6dc86"/><stop offset=".3" stop-color="#c9a8ff"/><stop offset=".55" stop-color="#8fe3d6"/><stop offset=".8" stop-color="#f6dc86"/><stop offset="1" stop-color="#d4af37"/></linearGradient></defs>
+<rect width="1024" height="1024" fill="url(#bg)"/>
+<path d="M262 250 L274.5 225 L299.5 250 L324.5 225 L349.5 250 L374.5 225 L399.5 250 L424.5 225 L449.5 250 L474.5 225 L499.5 250 L524.5 225 L549.5 250 L574.5 225 L599.5 250 L624.5 225 L649.5 250 L674.5 225 L699.5 250 L724.5 225 L749.5 250 L762 250 L762 800 L749.5 825 L724.5 800 L699.5 825 L674.5 800 L649.5 825 L624.5 800 L599.5 825 L574.5 800 L549.5 825 L524.5 800 L499.5 825 L474.5 800 L449.5 825 L424.5 800 L399.5 825 L374.5 800 L349.5 825 L324.5 800 L299.5 825 L274.5 800 L262 800 Z" fill="url(#holo)" stroke="#d4af37" stroke-width="10"/>
+<rect x="312" y="300" width="400" height="450" rx="20" fill="#0B0A08" opacity=".8"/>
+<path d="M512 340 Q554.0 448.0 662 490 Q554.0 532.0 512 640 Q470.0 532.0 362 490 Q470.0 448.0 512 340 Z" fill="url(#gold)" />
+<rect x="402" y="672" width="220" height="22" rx="11" fill="#d4af37" opacity=".7"/>
+</svg>
