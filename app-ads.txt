@@ -1,0 +1,2 @@
+# Authorised sellers of ad inventory for apps by this developer (IAB app-ads.txt).
+google.com, pub-2613150010022550, DIRECT, f08c47fec0942fa0
