@@ -1,0 +1,4 @@
+/* BamBud Handy's colours over the shared /styles.css. */
+:root { --bg: #0e1113; --card: #171b1e; --line: #262c30; --text: #eef0ee; --muted: #9aa3a0; --gold: #3dcb7f; --gold-light: #6fe0a2; }
+h1, h2, h3 { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, sans-serif; letter-spacing: -.01em; }
+.button { color: #06200f; border-radius: 999px; }
