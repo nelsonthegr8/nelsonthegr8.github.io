@@ -24,8 +24,9 @@
   <div class="card">
     <strong>In short:</strong> there are no accounts to create and we don't ask for your
     name, email or contacts. Your game progress stays on your device. The app shows
-    optional ads through Google AdMob, connects co-op shifts through Unity Gaming Services,
-    and uses Apple Game Center for leaderboards. Ads are never personalised and the app
+    optional ads through Google AdMob, measures how the game is played with Google Analytics
+    for Firebase, connects co-op shifts through Unity Gaming Services, and uses Apple Game
+    Center for leaderboards. Ads are never personalised and the app
     does not track you.
   </div>
 
@@ -56,6 +57,25 @@
     choices later in the game: tap ••• → Ad privacy choices.</li>
     <li>Watching ads is always optional.</li>
   </ul>
+
+  <h2>Usage analytics (Google Analytics for Firebase)</h2>
+  <p>The app uses Google Analytics for Firebase to understand how the game is played (for
+  example how many people play each day, how long they keep playing, and which of our
+  ads brought them to the game). It does not use the advertising identifier (IDFA).
+  Google may collect:</p>
+  <ul>
+    <li>a random app-instance identifier;</li>
+    <li>your IP address, from which an approximate (city-level) location may be
+    inferred (the IP address itself is not stored);</li>
+    <li>device information (model, OS version, language) and app version;</li>
+    <li>game events, such as finishing the tutorial, opening a new shop, buying a car,
+    starting a rush, hosting or joining a co-op shift, watching a rewarded ad, and
+    in-app purchases (which item and its price, never your payment details).</li>
+  </ul>
+  <p>This information isn't linked to your name, email or Apple ID, isn't used to track
+  you across other companies' apps or websites, and is kept for up to 14 months. See
+  <a href="https://firebase.google.com/support/privacy">Firebase's privacy information</a>
+  and the <a href="https://policies.google.com/privacy">Google Privacy Policy</a>.</p>
 
   <h2>Co-op shifts and friend trades (Unity Gaming Services)</h2>
   <p>To let friends join each other's shops, the app signs in anonymously to Unity
