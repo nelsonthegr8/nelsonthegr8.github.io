@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffd76a"/><stop offset="1" stop-color="#ff8fb8"/></linearGradient></defs>
+<rect width="1024" height="1024" rx="224" fill="url(#sky)"/>
+<rect x="190" y="430" width="644" height="420" rx="40" fill="#fff6e6" stroke="#2b1b3d" stroke-width="28"/>
+<g stroke="#2b1b3d" stroke-width="28" stroke-linejoin="round">
+<path d="M160 300h704l-40 170H200z" fill="#f2463a"/>
+<path d="M290 300l-22 170M420 300l-8 170M548 300l8 170M676 300l22 170" fill="none"/>
+</g>
+<path d="M200 470q66 60 132 0q66 60 132 0q66 60 132 0q66 60 132 0q66 60 66 0" fill="#fff" stroke="#2b1b3d" stroke-width="22"/>
+<rect x="430" y="610" width="164" height="240" rx="24" fill="#59c6f2" stroke="#2b1b3d" stroke-width="24"/>
+<rect x="250" y="590" width="130" height="110" rx="20" fill="#1de9b6" stroke="#2b1b3d" stroke-width="22"/>
+<rect x="644" y="590" width="130" height="110" rx="20" fill="#1de9b6" stroke="#2b1b3d" stroke-width="22"/>
+<text x="512" y="250" font-family="Arial Rounded MT Bold, Arial, sans-serif" font-weight="900" font-size="150" text-anchor="middle" fill="#2b1b3d">POP</text>
+</svg>
